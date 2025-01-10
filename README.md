@@ -14,7 +14,7 @@ My journey in cybersecurity has ignited a deep passion for protecting systems an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/victoriamusyoka/Detection-lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -79,6 +79,6 @@ My journey in cybersecurity has ignited a deep passion for protecting systems an
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/victoriamusyoka/Detection-lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
